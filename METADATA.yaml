@@ -1,0 +1,8 @@
+title: Security & Privacy
+description: The wg-security-privacy Working Group is responsible for ensuring AMP maintains high standards with respect to security and privacy, including documenting security/privacy best practices and facilitating security/privacy reviews for AMP code and features.
+facilitator:
+  login: honeybadgerdontcare
+  name: David Sedano
+members:
+  - login: molnarg
+    name: Gábor Molnár
