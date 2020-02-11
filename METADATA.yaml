@@ -6,3 +6,9 @@ facilitator:
 members:
   - login: molnarg
     name: Gábor Molnár
+communication:
+  - channel: slack
+    name: Slack
+    content:
+      - item: "Security & Privacy Working Group members will use `#wg-security-privacy` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in Secuirty & Privacy working group."
+      "#wg"
