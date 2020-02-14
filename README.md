@@ -4,7 +4,7 @@ The **wg-security-privacy** [Working Group](https://github.com/ampproject/meta/b
 Facilitator: [@honeybadgerdontcare](https://github.com/honeybadgerdontcare)
 
 # Members
-- [@honeybadgerdontcare](https://github.com/) - David Sedano (Facilitator)
+- [@honeybadgerdontcare](https://github.com/honeybadgerdontcare) - David Sedano (Facilitator)
 - [@molnarg](https://github.com/molnarg) - Gábor Molnár
 
 The GitHub team https://github.com/orgs/ampproject/teams/wg-security-privacy also includes the WG members.
