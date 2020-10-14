@@ -1,5 +1,5 @@
 title: Security & Privacy
-description: The wg-security-privacy Working Group is responsible for ensuring AMP maintains high standards with respect to security and privacy, including documenting security/privacy best practices and facilitating security/privacy reviews for AMP code and features.
+description: Responsible for ensuring AMP maintains high standards with respect to security and privacy, including documenting security/privacy best practices and facilitating security/privacy reviews for AMP code and features.
 facilitator:
   login: honeybadgerdontcare
   name: David Sedano
@@ -7,7 +7,8 @@ members:
   - login: molnarg
     name: Gábor Molnár
 communication:
-  - channel: slack
-    name: Slack
+  - channel: github
+    name: GitHub
     content:
-      - item: "Security & Privacy Working Group members will use `#wg-security-privacy` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in Secuirty & Privacy working group."
+      - item: "Any bugs or feature requests related to AMP should NOT be filed in this repository and https://github.com/ampproject/amphtml/issues should be used instead. `@ampproject/wg-security-privacy` can be used to mention this working group in issues and PRs."
+  
